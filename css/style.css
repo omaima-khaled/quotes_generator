@@ -1,0 +1,29 @@
+h1{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 50px 50px;
+    
+    display: block;
+
+}
+p{
+    font-size: 35px;
+    display: block;
+
+}
+.btn{
+    background-color: rgb(88, 81, 47);
+    border: 1px solid black;
+    
+}
+.btn:hover{
+    background-color: rgb(107, 99, 59);
+}
+.container{
+    color:rgb(136, 126, 79) ;
+   height: 100vh;
+    background-image: url("../imgs/vin.jpg");
+    background-position: center center;
+    background-size: cover;
+    
+}
